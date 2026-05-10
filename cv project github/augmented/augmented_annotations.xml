@@ -1,0 +1,2841 @@
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2910240</id>
+      <size>1001</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2025-08-29 03:36:30.486852+00:00</created>
+      <updated>2025-08-29 05:32:14.684553+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>1000</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id>2912120</id>
+          <start>0</start>
+          <stop>1000</stop>
+          <url>https://app.cvat.ai/api/jobs/2910240</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kumkum2</username>
+        <email>kumkummzp77@gmail.com</email>
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>Hospital</name>
+          <color>#bdf7b7</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Hotels</name>
+          <color>#8e36da</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Theatre</name>
+          <color>#84b86f</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Railway_station</name>
+          <color>#0a100e</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Shops</name>
+          <color>#e46850</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Roads_signals</name>
+          <color>#7b5c76</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Quotations</name>
+          <color>#528870</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Restaurant</name>
+          <color>#d18889</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Banks</name>
+          <color>#d529e6</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-08-29 05:34:23.006747+00:00</dumped>
+  </meta>
+  <image id="0" name="image_0.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="38.70" ytl="143.04" xbr="116.12" ybr="184.70" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="image_1.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="68.96" ytl="87.63" xbr="146.38" ybr="153.65" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="image_10.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="14.73" ytl="78.59" xbr="16.30" ybr="84.49" z_order="0">
+    </box>
+    <box label="Quotations" source="manual" occluded="0" xtl="11.04" ytl="80.35" xbr="119.43" ybr="124.04" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="image_100.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="56.07" ytl="69.56" xbr="163.81" ybr="98.98" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="image_1000.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="60.83" ytl="43.95" xbr="62.15" ybr="46.54" z_order="0">
+    </box>
+    <box label="Roads_signals" source="manual" occluded="0" xtl="27.94" ytl="46.86" xbr="181.72" ybr="162.28" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="image_101.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="5.88" ytl="67.01" xbr="208.25" ybr="130.95" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="image_102.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="96.35" ytl="72.76" xbr="179.80" ybr="98.66" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="image_103.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="35.29" ytl="117.52" xbr="216.89" ybr="156.52" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="image_104.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="148.35" ytl="67.59" xbr="209.26" ybr="99.42" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="image_105.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="40.67" ytl="71.52" xbr="42.63" ybr="75.84" z_order="0">
+    </box>
+    <box label="Shops" source="manual" occluded="0" xtl="41.06" ytl="67.59" xbr="201.79" ybr="94.70" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="image_106.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="19.05" ytl="23.97" xbr="147.95" ybr="128.11" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="image_107.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.00" ytl="45.97" xbr="143.24" ybr="135.57" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="image_108.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="95.29" ytl="71.13" xbr="182.54" ybr="117.50" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="image_109.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="101.58" ytl="129.29" xbr="208.47" ybr="163.48" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="image_11.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="56.78" ytl="27.50" xbr="167.60" ybr="105.71" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="image_110.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="31.63" ytl="126.14" xbr="176.64" ybr="157.19" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="image_111.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="24.16" ytl="89.60" xbr="188.04" ybr="127.71" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="image_112.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="85.08" ytl="101.38" xbr="118.09" ybr="118.68" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="image_113.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="27.31" ytl="95.10" xbr="148.74" ybr="130.07" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="image_114.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="45.78" ytl="45.97" xbr="102.37" ybr="84.09" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="image_115.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="38.70" ytl="71.13" xbr="122.41" ybr="112.39" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="image_116.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="58.35" ytl="106.49" xbr="107.48" ybr="127.32" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="image_117.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="97.26" ytl="55.41" xbr="223.80" ybr="130.47" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="image_118.jpg" width="224" height="224">
+  </image>
+  <image id="24" name="image_119.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="18.27" ytl="76.63" xbr="199.43" ybr="128.89" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="image_12.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="49.71" ytl="27.11" xbr="209.65" ybr="97.06" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="image_120.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="15.52" ytl="53.44" xbr="112.19" ybr="113.17" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="image_121.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="29.27" ytl="17.68" xbr="219.48" ybr="149.33" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="image_122.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="62.28" ytl="69.95" xbr="133.41" ybr="101.38" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="image_123.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.00" ytl="83.70" xbr="147.17" ybr="163.48" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="image_124.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="64.64" ytl="73.48" xbr="127.13" ybr="107.28" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="image_125.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="33.20" ytl="80.56" xbr="169.57" ybr="166.62" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="image_126.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="33.20" ytl="59.73" xbr="161.71" ybr="93.53" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="image_127.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="13.16" ytl="45.58" xbr="182.54" ybr="75.05" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="image_128.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="17.88" ytl="20.43" xbr="190.79" ybr="203.17" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="image_129.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="24.56" ytl="27.90" xbr="184.11" ybr="78.59" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="image_13.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="42.24" ytl="119.85" xbr="177.03" ybr="190.20" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="image_130.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="114.16" ytl="42.44" xbr="194.72" ybr="106.10" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="image_131.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="71.71" ytl="64.44" xbr="142.84" ybr="114.75" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="image_132.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="46.96" ytl="61.30" xbr="150.70" ybr="106.89" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="image_133.jpg" width="224" height="224">
+    <box label="Banks" source="manual" occluded="0" xtl="63.85" ytl="106.49" xbr="135.38" ybr="122.21" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="image_134.jpg" width="224" height="224">
+    <box label="Banks" source="manual" occluded="0" xtl="43.03" ytl="43.62" xbr="224.00" ybr="180.37" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="image_135.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="61.10" ytl="2.75" xbr="194.72" ybr="155.22" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="image_136.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="47.35" ytl="47.15" xbr="154.24" ybr="78.59" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="image_137.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="92.94" ytl="87.16" xbr="215.94" ybr="156.32" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="image_138.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="14.73" ytl="92.27" xbr="224.00" ybr="155.54" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="image_139.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="32.81" ytl="39.21" xbr="224.00" ybr="93.05" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="image_14.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="39.88" ytl="146.50" xbr="212.80" ybr="187.37" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="image_140.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="84.29" ytl="94.63" xbr="201.79" ybr="185.01" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="image_141.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="26.52" ytl="71.52" xbr="202.97" ybr="117.10" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="image_142.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="53.24" ytl="62.09" xbr="193.93" ybr="154.83" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="image_143.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="59.14" ytl="52.65" xbr="114.94" ybr="108.85" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="image_144.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="6.48" ytl="50.30" xbr="224.00" ybr="143.43" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="image_145.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="0.19" ytl="50.30" xbr="218.69" ybr="131.64" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="image_146.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="65.82" ytl="40.08" xbr="143.24" ybr="108.07" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="image_147.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="50.89" ytl="49.12" xbr="158.17" ybr="103.74" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="image_148.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="55.21" ytl="25.93" xbr="210.44" ybr="119.46" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="image_149.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="18.27" ytl="33.79" xbr="127.52" ybr="106.10" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="image_15.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="2.16" ytl="84.88" xbr="224.00" ybr="128.11" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="image_150.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="26.91" ytl="73.88" xbr="195.11" ybr="139.90" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="image_151.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="63.07" ytl="85.67" xbr="127.91" ybr="129.29" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="image_152.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="55.60" ytl="64.05" xbr="137.74" ybr="112.39" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="image_153.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="48.92" ytl="76.63" xbr="185.68" ybr="118.68" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="image_154.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="38.70" ytl="96.67" xbr="142.45" ybr="189.41" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="image_155.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="13.16" ytl="36.15" xbr="183.32" ybr="90.38" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="image_156.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="13.95" ytl="85.67" xbr="169.96" ybr="184.70" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="image_157.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="68.18" ytl="88.81" xbr="134.20" ybr="159.55" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="image_158.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="47.74" ytl="14.93" xbr="187.25" ybr="58.16" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="image_159.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="24.16" ytl="14.93" xbr="202.18" ybr="54.62" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="image_16.jpg" width="224" height="224">
+  </image>
+  <image id="70" name="image_160.jpg" width="224" height="224">
+  </image>
+  <image id="71" name="image_161.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="36.35" ytl="87.24" xbr="195.11" ybr="152.47" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="image_162.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="28.88" ytl="88.02" xbr="203.36" ybr="189.02" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="image_163.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="45.78" ytl="23.57" xbr="201.79" ybr="85.67" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="image_164.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="16.30" ytl="21.22" xbr="158.96" ybr="84.09" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="image_165.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="35.95" ytl="29.86" xbr="180.57" ybr="137.93" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="image_166.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="0.00" ytl="23.57" xbr="224.00" ybr="188.23" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="image_167.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="1.76" ytl="12.57" xbr="216.33" ybr="171.73" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="image_168.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="70.93" ytl="35.76" xbr="186.47" ybr="148.15" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="image_169.jpg" width="224" height="224">
+    <box label="Banks" source="manual" occluded="0" xtl="59.53" ytl="148.54" xbr="165.24" ybr="184.30" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="image_17.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="25.74" ytl="62.09" xbr="184.89" ybr="92.35" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="image_170.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="12.37" ytl="33.01" xbr="224.00" ybr="128.11" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="image_171.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="111.01" ytl="90.77" xbr="221.83" ybr="167.01" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="image_172.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="4.12" ytl="87.63" xbr="200.22" ybr="189.41" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="image_173.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="42.63" ytl="135.57" xbr="178.21" ybr="165.05" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="image_174.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="23.77" ytl="36.94" xbr="224.00" ybr="117.10" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="image_175.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="54.03" ytl="32.22" xbr="196.68" ybr="187.45" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="image_176.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="4.91" ytl="97.06" xbr="217.90" ybr="179.98" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="image_177.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="18.27" ytl="43.62" xbr="179.39" ybr="126.93" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="image_178.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="1.76" ytl="49.51" xbr="217.12" ybr="124.18" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="image_179.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.00" ytl="62.09" xbr="219.08" ybr="174.87" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="image_18.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="41.85" ytl="123.00" xbr="176.64" ybr="154.04" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="image_180.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="44.21" ytl="1.57" xbr="207.69" ybr="27.50" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="image_181.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="96.47" ytl="41.65" xbr="178.21" ybr="139.90" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="image_182.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="66.21" ytl="72.30" xbr="140.49" ybr="110.42" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="image_183.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="8.44" ytl="115.53" xbr="211.22" ybr="187.45" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="image_184.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="27.31" ytl="27.90" xbr="209.65" ybr="215.35" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="image_185.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="75.64" ytl="141.86" xbr="141.67" ybr="190.20" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="image_186.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="55.60" ytl="11.00" xbr="196.68" ybr="159.55" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="image_187.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="107.87" ytl="29.47" xbr="221.83" ybr="141.08" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="image_188.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="14.34" ytl="77.81" xbr="212.01" ybr="171.73" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="image_189.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="3.73" ytl="86.06" xbr="212.40" ybr="181.95" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="image_19.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="3.34" ytl="74.66" xbr="168.39" ybr="102.56" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="image_190.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="7.66" ytl="128.81" xbr="147.17" ybr="183.44" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="image_191.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="89.40" ytl="106.02" xbr="169.57" ybr="143.36" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="image_192.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="45.38" ytl="89.12" xbr="114.94" ybr="152.00" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="image_193.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="55.21" ytl="58.47" xbr="166.42" ybr="158.29" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="image_194.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="13.55" ytl="102.49" xbr="107.08" ybr="196.41" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="image_195.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="4.91" ytl="63.19" xbr="144.42" ybr="175.58" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="image_196.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="74.86" ytl="106.02" xbr="213.58" ybr="185.40" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="image_197.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="29.27" ytl="100.91" xbr="176.25" ybr="177.15" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="image_198.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="7.66" ytl="41.18" xbr="100.80" ybr="134.71" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="image_199.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="2.55" ytl="52.97" xbr="192.75" ybr="199.55" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="image_2.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="49.31" ytl="96.59" xbr="160.53" ybr="167.72" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="image_20.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="41.85" ytl="26.25" xbr="181.36" ybr="68.30" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="image_200.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="23.77" ytl="26.25" xbr="223.41" ybr="128.42" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="image_201.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="3.34" ytl="51.79" xbr="170.35" ybr="158.29" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="image_202.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="4.51" ytl="42.36" xbr="197.08" ybr="166.93" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="image_203.jpg" width="224" height="224">
+    <box label="Banks" source="manual" occluded="0" xtl="14.34" ytl="37.25" xbr="213.97" ybr="220.77" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="image_204.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="52.07" ytl="78.51" xbr="197.86" ybr="180.30" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="image_205.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="41.06" ytl="49.04" xbr="140.88" ybr="146.50" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="image_206.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="8.84" ytl="98.95" xbr="190.79" ybr="158.29" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="image_207.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="41.06" ytl="67.12" xbr="173.10" ybr="186.58" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="image_208.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="60.71" ytl="46.68" xbr="206.11" ybr="145.71" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="image_209.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="64.82" ytl="56.85" xbr="191.01" ybr="134.61" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="image_21.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="48.51" ytl="87.27" xbr="177.85" ybr="108.83" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="image_210.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="28.91" ytl="70.42" xbr="174.33" ybr="135.87" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="image_211.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="28.52" ytl="10.84" xbr="222.93" ybr="184.87" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="image_212.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="51.64" ytl="20.24" xbr="174.33" ybr="82.96" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="image_213.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="55.56" ytl="73.55" xbr="204.51" ybr="154.69" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="image_214.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="59.48" ytl="104.52" xbr="219.01" ybr="198.98" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="image_215.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="15.58" ytl="51.60" xbr="164.92" ybr="120.59" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="image_216.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="23.81" ytl="86.09" xbr="197.45" ybr="183.69" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="image_217.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="77.51" ytl="48.47" xbr="172.76" ybr="200.55" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="image_218.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="14.01" ytl="140.97" xbr="209.21" ybr="195.85" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="image_219.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="2.25" ytl="59.44" xbr="213.13" ybr="193.89" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="image_22.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="24.60" ytl="20.64" xbr="185.30" ybr="132.35" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="image_220.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="41.45" ytl="35.92" xbr="193.53" ybr="204.08" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="image_221.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="1.47" ytl="8.88" xbr="223.32" ybr="198.59" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="image_222.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="3.04" ytl="7.31" xbr="186.87" ybr="64.14" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="image_223.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="49.29" ytl="48.47" xbr="217.05" ybr="150.38" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="image_224.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="69.28" ytl="100.99" xbr="177.85" ybr="211.13" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="image_225.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="19.50" ytl="36.32" xbr="161.39" ybr="140.97" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="image_226.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="41.06" ytl="93.93" xbr="176.29" ybr="189.57" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="image_227.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="15.97" ytl="99.42" xbr="220.19" ybr="198.98" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="image_228.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="9.31" ytl="9.27" xbr="218.62" ybr="215.84" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="image_229.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="18.72" ytl="29.65" xbr="200.20" ybr="182.13" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="image_23.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="80.65" ytl="31.61" xbr="162.96" ybr="93.54" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="image_230.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="8.92" ytl="19.46" xbr="159.43" ybr="119.02" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="image_231.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="57.13" ytl="39.06" xbr="215.09" ybr="195.85" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="image_232.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="19.11" ytl="143.71" xbr="223.32" ybr="213.88" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="image_233.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="25.77" ytl="4.57" xbr="220.58" ybr="54.74" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="image_234.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="6.17" ytl="21.42" xbr="206.86" ybr="101.38" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="image_235.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="10.09" ytl="112.75" xbr="202.55" ybr="206.43" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="image_236.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="10.48" ytl="97.07" xbr="190.40" ybr="186.44" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="image_237.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="83.78" ytl="89.23" xbr="202.55" ybr="154.30" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="image_238.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="7.74" ytl="35.14" xbr="177.07" ybr="104.91" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="image_239.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="36.75" ytl="32.79" xbr="185.69" ybr="100.60" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="image_24.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="69.67" ytl="84.92" xbr="155.90" ybr="160.96" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="image_240.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="50.86" ytl="46.11" xbr="212.35" ybr="175.46" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="image_241.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="13.23" ytl="16.32" xbr="206.47" ybr="114.71" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="image_242.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="65.75" ytl="26.52" xbr="218.62" ybr="139.40" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="image_243.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="87.31" ytl="71.98" xbr="170.80" ybr="179.77" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="image_244.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="25.77" ytl="22.20" xbr="190.79" ybr="208.00" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="image_245.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="33.22" ytl="93.93" xbr="197.45" ybr="177.03" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="image_246.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="20.68" ytl="107.26" xbr="182.56" ybr="144.11" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="image_247.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="2.25" ytl="4.57" xbr="200.98" ybr="61.01" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="image_248.jpg" width="224" height="224">
+    <box label="Banks" source="manual" occluded="0" xtl="2.25" ytl="82.96" xbr="216.27" ybr="148.03" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="image_249.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="33.22" ytl="80.61" xbr="186.48" ybr="144.89" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="image_25.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="14.01" ytl="37.88" xbr="215.48" ybr="148.81" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="image_250.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="6.56" ytl="74.34" xbr="206.08" ybr="221.72" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="image_251.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="14.01" ytl="49.25" xbr="204.51" ybr="149.99" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="image_252.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="7.35" ytl="14.37" xbr="184.13" ybr="98.64" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="image_253.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="82.61" ytl="80.22" xbr="211.17" ybr="143.32" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="image_254.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="72.42" ytl="19.85" xbr="162.18" ybr="149.99" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="image_255.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="67.32" ytl="67.67" xbr="159.82" ybr="117.45" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="image_256.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.69" ytl="21.42" xbr="224.00" ybr="76.69" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="image_257.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="41.45" ytl="129.60" xbr="193.14" ybr="199.37" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="image_258.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="106.12" ytl="15.54" xbr="224.00" ybr="90.80" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="image_259.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="19.50" ytl="33.57" xbr="182.56" ybr="198.59" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="image_26.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="31.26" ytl="97.07" xbr="204.51" ybr="118.63" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="image_260.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="57.91" ytl="9.66" xbr="142.58" ybr="92.37" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="image_261.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="41.84" ytl="120.20" xbr="122.20" ybr="170.76" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="image_262.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="98.25" ytl="77.47" xbr="99.46" ybr="84.92" z_order="0">
+    </box>
+    <box label="Shops" source="manual" occluded="0" xtl="96.33" ytl="70.42" xbr="190.01" ybr="115.10" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="image_263.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="14.80" ytl="53.17" xbr="122.20" ybr="104.52" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="image_264.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="21.46" ytl="70.00" xbr="223.60" ybr="119.80" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="image_265.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="12.05" ytl="64.14" xbr="214.31" ybr="138.62" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="image_266.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="18.32" ytl="94.72" xbr="122.20" ybr="130.39" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="image_267.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="28.52" ytl="32.40" xbr="196.67" ybr="78.65" z_order="0">
+    </box>
+    <box label="Quotations" source="manual" occluded="0" xtl="21.07" ytl="112.36" xbr="200.98" ybr="188.40" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="image_268.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="71.63" ytl="32.79" xbr="178.64" ybr="68.85" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="image_269.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="25.38" ytl="26.91" xbr="186.48" ybr="193.10" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="image_27.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="36.75" ytl="42.59" xbr="195.49" ybr="156.65" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="image_270.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="50.47" ytl="20.64" xbr="178.25" ybr="43.37" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="image_271.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="74.77" ytl="39.06" xbr="150.81" ybr="186.44" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="image_272.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="81.82" ytl="22.20" xbr="183.34" ybr="65.71" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="image_273.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="35.57" ytl="77.47" xbr="208.04" ybr="143.71" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="image_274.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="37.14" ytl="48.86" xbr="210.39" ybr="208.00" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="image_275.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="70.85" ytl="121.76" xbr="180.60" ybr="148.03" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="image_276.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="39.10" ytl="111.18" xbr="192.36" ybr="200.94" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="image_277.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="83.78" ytl="59.05" xbr="179.42" ybr="129.60" z_order="0">
+    </box>
+    <box label="Quotations" source="manual" occluded="0" xtl="54.38" ytl="152.34" xbr="168.84" ybr="184.87" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="image_278.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="52.82" ytl="52.78" xbr="152.77" ybr="88.05" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="image_279.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="32.43" ytl="71.20" xbr="185.30" ybr="186.44" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="image_28.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="67.32" ytl="36.32" xbr="184.91" ybr="67.67" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="image_280.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="61.44" ytl="59.05" xbr="132.78" ybr="95.50" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="image_281.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="74.38" ytl="66.10" xbr="147.67" ybr="125.29" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="image_282.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="28.52" ytl="80.61" xbr="193.92" ybr="116.28" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="image_283.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="54.78" ytl="43.76" xbr="205.68" ybr="159.00" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="image_284.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="5.78" ytl="54.74" xbr="195.88" ybr="99.03" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="image_285.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="86.53" ytl="82.57" xbr="218.23" ybr="155.87" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="image_286.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="55.17" ytl="43.37" xbr="166.88" ybr="136.66" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="image_287.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="52.82" ytl="111.18" xbr="173.15" ybr="187.61" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="image_288.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="73.20" ytl="79.82" xbr="155.51" ybr="124.12" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="image_289.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="24.99" ytl="28.08" xbr="198.63" ybr="185.26" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="image_29.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="145.32" ytl="129.60" xbr="215.48" ybr="153.91" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="image_290.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="43.02" ytl="53.95" xbr="177.07" ybr="156.26" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="image_291.jpg" width="224" height="224">
+  </image>
+  <image id="216" name="image_292.jpg" width="224" height="224">
+  </image>
+  <image id="217" name="image_293.jpg" width="224" height="224">
+  </image>
+  <image id="218" name="image_294.jpg" width="224" height="224">
+  </image>
+  <image id="219" name="image_295.jpg" width="224" height="224">
+  </image>
+  <image id="220" name="image_296.jpg" width="224" height="224">
+  </image>
+  <image id="221" name="image_297.jpg" width="224" height="224">
+  </image>
+  <image id="222" name="image_298.jpg" width="224" height="224">
+  </image>
+  <image id="223" name="image_299.jpg" width="224" height="224">
+  </image>
+  <image id="224" name="image_3.jpg" width="224" height="224">
+  </image>
+  <image id="225" name="image_30.jpg" width="224" height="224">
+  </image>
+  <image id="226" name="image_300.jpg" width="224" height="224">
+  </image>
+  <image id="227" name="image_301.jpg" width="224" height="224">
+  </image>
+  <image id="228" name="image_302.jpg" width="224" height="224">
+  </image>
+  <image id="229" name="image_303.jpg" width="224" height="224">
+  </image>
+  <image id="230" name="image_304.jpg" width="224" height="224">
+  </image>
+  <image id="231" name="image_305.jpg" width="224" height="224">
+  </image>
+  <image id="232" name="image_306.jpg" width="224" height="224">
+  </image>
+  <image id="233" name="image_307.jpg" width="224" height="224">
+  </image>
+  <image id="234" name="image_308.jpg" width="224" height="224">
+  </image>
+  <image id="235" name="image_309.jpg" width="224" height="224">
+  </image>
+  <image id="236" name="image_31.jpg" width="224" height="224">
+  </image>
+  <image id="237" name="image_310.jpg" width="224" height="224">
+  </image>
+  <image id="238" name="image_311.jpg" width="224" height="224">
+  </image>
+  <image id="239" name="image_312.jpg" width="224" height="224">
+  </image>
+  <image id="240" name="image_313.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="26.95" ytl="60.60" xbr="182.60" ybr="173.11" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="image_314.jpg" width="224" height="224">
+  </image>
+  <image id="242" name="image_315.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="0.00" ytl="18.76" xbr="224.00" ybr="222.20" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="image_316.jpg" width="224" height="224">
+  </image>
+  <image id="244" name="image_317.jpg" width="224" height="224">
+  </image>
+  <image id="245" name="image_318.jpg" width="224" height="224">
+  </image>
+  <image id="246" name="image_319.jpg" width="224" height="224">
+  </image>
+  <image id="247" name="image_32.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="57.17" ytl="93.80" xbr="145.60" ybr="146.50" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="image_320.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="74.07" ytl="74.98" xbr="156.99" ybr="106.81" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="image_321.jpg" width="224" height="224">
+  </image>
+  <image id="250" name="image_322.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="60.32" ytl="64.37" xbr="158.96" ybr="101.70" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="image_323.jpg" width="224" height="224">
+  </image>
+  <image id="252" name="image_324.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="19.45" ytl="95.80" xbr="158.96" ybr="152.39" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="image_325.jpg" width="224" height="224">
+  </image>
+  <image id="254" name="image_326.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="86.43" ytl="75.21" xbr="143.53" ybr="115.71" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="image_327.jpg" width="224" height="224">
+  </image>
+  <image id="256" name="image_328.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="127.32" ytl="58.23" xbr="208.72" ybr="115.71" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="image_329.jpg" width="224" height="224">
+  </image>
+  <image id="258" name="image_33.jpg" width="224" height="224">
+  </image>
+  <image id="259" name="image_330.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="11.59" ytl="20.43" xbr="209.11" ybr="170.49" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="image_331.jpg" width="224" height="224">
+  </image>
+  <image id="261" name="image_332.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="38.60" ytl="45.12" xbr="174.00" ybr="130.76" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="image_333.jpg" width="224" height="224">
+  </image>
+  <image id="263" name="image_334.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="6.19" ytl="118.80" xbr="221.06" ybr="189.39" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="image_335.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="25.87" ytl="37.02" xbr="194.45" ybr="185.92" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="image_336.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="31.62" ytl="7.31" xbr="150.08" ybr="109.15" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="image_337.jpg" width="224" height="224">
+  </image>
+  <image id="267" name="image_338.jpg" width="224" height="224">
+  </image>
+  <image id="268" name="image_339.jpg" width="224" height="224">
+  </image>
+  <image id="269" name="image_34.jpg" width="224" height="224">
+  </image>
+  <image id="270" name="image_340.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="17.00" ytl="62.09" xbr="196.38" ybr="135.77" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="image_341.jpg" width="224" height="224">
+  </image>
+  <image id="272" name="image_342.jpg" width="224" height="224">
+  </image>
+  <image id="273" name="image_343.jpg" width="224" height="224">
+  </image>
+  <image id="274" name="image_344.jpg" width="224" height="224">
+  </image>
+  <image id="275" name="image_345.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="62.52" ytl="33.93" xbr="191.75" ybr="65.56" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="image_346.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="11.98" ytl="110.70" xbr="189.05" ybr="157.37" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="image_347.jpg" width="224" height="224">
+  </image>
+  <image id="278" name="image_348.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="6.97" ytl="61.71" xbr="211.42" ybr="164.32" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="image_349.jpg" width="224" height="224">
+  </image>
+  <image id="280" name="image_35.jpg" width="224" height="224">
+  </image>
+  <image id="281" name="image_350.jpg" width="224" height="224">
+  </image>
+  <image id="282" name="image_351.jpg" width="224" height="224">
+  </image>
+  <image id="283" name="image_352.jpg" width="224" height="224">
+  </image>
+  <image id="284" name="image_353.jpg" width="224" height="224">
+  </image>
+  <image id="285" name="image_354.jpg" width="224" height="224">
+  </image>
+  <image id="286" name="image_355.jpg" width="224" height="224">
+  </image>
+  <image id="287" name="image_356.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="21.24" ytl="137.32" xbr="222.22" ybr="198.27" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="image_357.jpg" width="224" height="224">
+  </image>
+  <image id="289" name="image_358.jpg" width="224" height="224">
+  </image>
+  <image id="290" name="image_359.jpg" width="224" height="224">
+  </image>
+  <image id="291" name="image_36.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="68.30" ytl="163.55" xbr="152.40" ybr="196.34" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="image_360.jpg" width="224" height="224">
+  </image>
+  <image id="293" name="image_361.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="66.76" ytl="64.41" xbr="147.38" ybr="146.19" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="image_362.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="46.31" ytl="41.26" xbr="150.47" ybr="84.47" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="image_363.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="57.11" ytl="78.29" xbr="211.42" ybr="151.20" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="image_364.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="98.78" ytl="79.45" xbr="203.71" ybr="142.33" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="image_365.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="20.08" ytl="24.67" xbr="145.07" ybr="67.49" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="image_366.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="106.49" ytl="65.95" xbr="152.40" ybr="86.39" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="image_367.jpg" width="224" height="224">
+  </image>
+  <image id="300" name="image_368.jpg" width="224" height="224">
+  </image>
+  <image id="301" name="image_369.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="28.18" ytl="110.70" xbr="207.18" ybr="158.53" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="image_37.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.00" ytl="26.60" xbr="212.96" ybr="210.22" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="image_370.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="16.22" ytl="8.86" xbr="216.05" ybr="92.18" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="image_371.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="41.30" ytl="65.95" xbr="176.32" ybr="137.32" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="image_372.jpg" width="224" height="224">
+  </image>
+  <image id="306" name="image_373.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="37.83" ytl="67.88" xbr="184.80" ybr="138.47" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="image_374.jpg" width="224" height="224">
+  </image>
+  <image id="308" name="image_375.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="48.24" ytl="38.17" xbr="156.64" ybr="131.14" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="image_376.jpg" width="224" height="224">
+  </image>
+  <image id="310" name="image_377.jpg" width="224" height="224">
+  </image>
+  <image id="311" name="image_378.jpg" width="224" height="224">
+  </image>
+  <image id="312" name="image_379.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="68.69" ytl="13.50" xbr="168.99" ybr="204.44" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="image_38.jpg" width="224" height="224">
+  </image>
+  <image id="314" name="image_380.jpg" width="224" height="224">
+  </image>
+  <image id="315" name="image_381.jpg" width="224" height="224">
+  </image>
+  <image id="316" name="image_382.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="1.56" ytl="7.70" xbr="220.68" ybr="220.25" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="image_383.jpg" width="224" height="224">
+  </image>
+  <image id="318" name="image_384.jpg" width="224" height="224">
+  </image>
+  <image id="319" name="image_385.jpg" width="224" height="224">
+  </image>
+  <image id="320" name="image_386.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="44.77" ytl="113.40" xbr="186.73" ybr="175.89" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="image_387.jpg" width="224" height="224">
+  </image>
+  <image id="322" name="image_388.jpg" width="224" height="224">
+  </image>
+  <image id="323" name="image_389.jpg" width="224" height="224">
+  </image>
+  <image id="324" name="image_39.jpg" width="224" height="224">
+  </image>
+  <image id="325" name="image_390.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="50.56" ytl="46.27" xbr="146.23" ybr="71.74" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="image_391.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="32.81" ytl="25.83" xbr="192.90" ybr="93.34" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="image_392.jpg" width="224" height="224">
+  </image>
+  <image id="328" name="image_393.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="27.02" ytl="4.23" xbr="194.83" ybr="58.23" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="image_394.jpg" width="224" height="224">
+  </image>
+  <image id="330" name="image_395.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="47.86" ytl="61.32" xbr="175.93" ybr="145.03" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="image_396.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="29.34" ytl="46.27" xbr="200.62" ybr="176.28" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="image_397.jpg" width="224" height="224">
+  </image>
+  <image id="333" name="image_398.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="0.00" ytl="43.19" xbr="212.58" ybr="182.84" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="image_399.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="54.03" ytl="82.92" xbr="174.77" ybr="165.48" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="image_4.jpg" width="224" height="224">
+  </image>
+  <image id="336" name="image_40.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="0.00" ytl="50.52" xbr="224.00" ybr="201.35" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="image_400.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="14.29" ytl="100.28" xbr="192.90" ybr="211.00" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="image_401.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="73.32" ytl="86.01" xbr="143.91" ybr="140.02" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="image_402.jpg" width="224" height="224">
+  </image>
+  <image id="340" name="image_403.jpg" width="224" height="224">
+  </image>
+  <image id="341" name="image_404.jpg" width="224" height="224">
+  </image>
+  <image id="342" name="image_405.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="43.23" ytl="21.97" xbr="203.71" ybr="203.28" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="image_406.jpg" width="224" height="224">
+  </image>
+  <image id="344" name="image_407.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="4.26" ytl="169.33" xbr="221.06" ybr="197.11" z_order="0">
+    </box>
+    <box label="Quotations" source="manual" occluded="0" xtl="37.44" ytl="197.49" xbr="187.89" ybr="211.38" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="image_408.jpg" width="224" height="224">
+  </image>
+  <image id="346" name="image_409.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="41.68" ytl="65.56" xbr="182.87" ybr="112.24" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="image_41.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="49.01" ytl="20.80" xbr="189.80" ybr="142.33" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="image_410.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="11.59" ytl="31.23" xbr="182.49" ybr="69.81" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="image_411.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="8.89" ytl="24.67" xbr="214.89" ybr="165.86" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="image_412.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="15.07" ytl="45.89" xbr="180.94" ybr="97.97" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="image_413.jpg" width="224" height="224">
+  </image>
+  <image id="352" name="image_414.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="0.00" ytl="5.00" xbr="224.00" ybr="198.65" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="image_415.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="11.59" ytl="36.63" xbr="154.33" ybr="194.02" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="image_416.jpg" width="224" height="224">
+  </image>
+  <image id="355" name="image_417.jpg" width="224" height="224">
+  </image>
+  <image id="356" name="image_418.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="10.82" ytl="33.93" xbr="216.44" ybr="217.55" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="image_419.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="54.41" ytl="52.06" xbr="157.41" ybr="108.00" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="image_42.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="1.95" ytl="9.24" xbr="222.22" ybr="147.73" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="image_420.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="60.20" ytl="57.85" xbr="190.59" ybr="149.27" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="image_421.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="54.41" ytl="18.90" xbr="152.40" ybr="84.50" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="image_422.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="9.67" ytl="46.66" xbr="188.66" ybr="145.80" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="image_423.jpg" width="224" height="224">
+  </image>
+  <image id="363" name="image_424.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="25.48" ytl="11.56" xbr="201.39" ybr="53.22" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="image_425.jpg" width="224" height="224">
+  </image>
+  <image id="365" name="image_426.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="1.18" ytl="5.77" xbr="213.35" ybr="72.12" z_order="0">
+    </box>
+  </image>
+  <image id="366" name="image_427.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="29.34" ytl="114.55" xbr="185.19" ybr="212.54" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="image_428.jpg" width="224" height="224">
+  </image>
+  <image id="368" name="image_429.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="0.00" ytl="10.01" xbr="202.16" ybr="215.24" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="image_43.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="20.85" ytl="40.10" xbr="151.24" ybr="99.51" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="image_430.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="0.00" ytl="8.08" xbr="217.59" ybr="209.07" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="image_431.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="0.41" ytl="6.16" xbr="214.51" ybr="211.38" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="image_432.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="49.79" ytl="14.64" xbr="172.46" ybr="204.82" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="image_433.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="36.67" ytl="80.61" xbr="179.02" ybr="143.87" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="image_434.jpg" width="224" height="224">
+  </image>
+  <image id="375" name="image_435.jpg" width="224" height="224">
+  </image>
+  <image id="376" name="image_436.jpg" width="224" height="224">
+  </image>
+  <image id="377" name="image_437.jpg" width="224" height="224">
+  </image>
+  <image id="378" name="image_438.jpg" width="224" height="224">
+  </image>
+  <image id="379" name="image_439.jpg" width="224" height="224">
+  </image>
+  <image id="380" name="image_44.jpg" width="224" height="224">
+  </image>
+  <image id="381" name="image_440.jpg" width="224" height="224">
+  </image>
+  <image id="382" name="image_441.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="0.00" ytl="4.61" xbr="219.14" ybr="216.78" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="image_442.jpg" width="224" height="224">
+  </image>
+  <image id="384" name="image_443.jpg" width="224" height="224">
+  </image>
+  <image id="385" name="image_444.jpg" width="224" height="224">
+  </image>
+  <image id="386" name="image_445.jpg" width="224" height="224">
+  </image>
+  <image id="387" name="image_446.jpg" width="224" height="224">
+  </image>
+  <image id="388" name="image_447.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="19.31" ytl="18.89" xbr="202.55" ybr="207.91" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="image_448.jpg" width="224" height="224">
+  </image>
+  <image id="390" name="image_449.jpg" width="224" height="224">
+  </image>
+  <image id="391" name="image_45.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="2.72" ytl="11.94" xbr="184.80" ybr="147.73" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="image_450.jpg" width="224" height="224">
+  </image>
+  <image id="393" name="image_451.jpg" width="224" height="224">
+  </image>
+  <image id="394" name="image_452.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="1.95" ytl="5.46" xbr="208.33" ybr="201.81" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="image_453.jpg" width="224" height="224">
+  </image>
+  <image id="396" name="image_454.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="1.56" ytl="3.53" xbr="217.98" ybr="214.16" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="image_455.jpg" width="224" height="224">
+  </image>
+  <image id="398" name="image_456.jpg" width="224" height="224">
+  </image>
+  <image id="399" name="image_457.jpg" width="224" height="224">
+  </image>
+  <image id="400" name="image_458.jpg" width="224" height="224">
+  </image>
+  <image id="401" name="image_459.jpg" width="224" height="224">
+  </image>
+  <image id="402" name="image_46.jpg" width="224" height="224">
+  </image>
+  <image id="403" name="image_460.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="4.65" ytl="7.00" xbr="222.22" ybr="208.76" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="image_461.jpg" width="224" height="224">
+  </image>
+  <image id="405" name="image_462.jpg" width="224" height="224">
+  </image>
+  <image id="406" name="image_463.jpg" width="224" height="224">
+  </image>
+  <image id="407" name="image_464.jpg" width="224" height="224">
+  </image>
+  <image id="408" name="image_465.jpg" width="224" height="224">
+  </image>
+  <image id="409" name="image_466.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="22.01" ytl="30.15" xbr="208.33" ybr="198.34" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="image_467.jpg" width="224" height="224">
+  </image>
+  <image id="411" name="image_468.jpg" width="224" height="224">
+  </image>
+  <image id="412" name="image_469.jpg" width="224" height="224">
+  </image>
+  <image id="413" name="image_47.jpg" width="224" height="224">
+  </image>
+  <image id="414" name="image_470.jpg" width="224" height="224">
+  </image>
+  <image id="415" name="image_471.jpg" width="224" height="224">
+  </image>
+  <image id="416" name="image_472.jpg" width="224" height="224">
+  </image>
+  <image id="417" name="image_473.jpg" width="224" height="224">
+  </image>
+  <image id="418" name="image_474.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="0.00" ytl="6.62" xbr="217.98" ybr="217.25" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="image_475.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="41.30" ytl="41.72" xbr="158.96" ybr="105.76" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="image_476.jpg" width="224" height="224">
+  </image>
+  <image id="421" name="image_477.jpg" width="224" height="224">
+  </image>
+  <image id="422" name="image_478.jpg" width="224" height="224">
+  </image>
+  <image id="423" name="image_479.jpg" width="224" height="224">
+  </image>
+  <image id="424" name="image_48.jpg" width="224" height="224">
+  </image>
+  <image id="425" name="image_480.jpg" width="224" height="224">
+  </image>
+  <image id="426" name="image_481.jpg" width="224" height="224">
+  </image>
+  <image id="427" name="image_482.jpg" width="224" height="224">
+  </image>
+  <image id="428" name="image_483.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="1.95" ytl="64.48" xbr="214.89" ybr="196.80" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="image_484.jpg" width="224" height="224">
+  </image>
+  <image id="430" name="image_485.jpg" width="224" height="224">
+  </image>
+  <image id="431" name="image_486.jpg" width="224" height="224">
+  </image>
+  <image id="432" name="image_487.jpg" width="224" height="224">
+  </image>
+  <image id="433" name="image_488.jpg" width="224" height="224">
+  </image>
+  <image id="434" name="image_489.jpg" width="224" height="224">
+  </image>
+  <image id="435" name="image_49.jpg" width="224" height="224">
+  </image>
+  <image id="436" name="image_490.jpg" width="224" height="224">
+  </image>
+  <image id="437" name="image_491.jpg" width="224" height="224">
+  </image>
+  <image id="438" name="image_492.jpg" width="224" height="224">
+  </image>
+  <image id="439" name="image_493.jpg" width="224" height="224">
+  </image>
+  <image id="440" name="image_494.jpg" width="224" height="224">
+  </image>
+  <image id="441" name="image_495.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="74.09" ytl="28.99" xbr="207.18" ybr="95.34" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="image_496.jpg" width="224" height="224">
+  </image>
+  <image id="443" name="image_497.jpg" width="224" height="224">
+  </image>
+  <image id="444" name="image_498.jpg" width="224" height="224">
+  </image>
+  <image id="445" name="image_499.jpg" width="224" height="224">
+  </image>
+  <image id="446" name="image_5.jpg" width="224" height="224">
+  </image>
+  <image id="447" name="image_50.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="33.58" ytl="22.05" xbr="201.78" ybr="212.62" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="image_500.jpg" width="224" height="224">
+  </image>
+  <image id="449" name="image_501.jpg" width="224" height="224">
+  </image>
+  <image id="450" name="image_502.jpg" width="224" height="224">
+  </image>
+  <image id="451" name="image_503.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="25.48" ytl="56.00" xbr="214.89" ybr="164.40" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="image_504.jpg" width="224" height="224">
+  </image>
+  <image id="453" name="image_505.jpg" width="224" height="224">
+  </image>
+  <image id="454" name="image_506.jpg" width="224" height="224">
+  </image>
+  <image id="455" name="image_507.jpg" width="224" height="224">
+  </image>
+  <image id="456" name="image_508.jpg" width="224" height="224">
+  </image>
+  <image id="457" name="image_509.jpg" width="224" height="224">
+  </image>
+  <image id="458" name="image_51.jpg" width="224" height="224">
+  </image>
+  <image id="459" name="image_510.jpg" width="224" height="224">
+  </image>
+  <image id="460" name="image_511.jpg" width="224" height="224">
+  </image>
+  <image id="461" name="image_512.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="0.41" ytl="31.69" xbr="224.00" ybr="194.87" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="image_513.jpg" width="224" height="224">
+  </image>
+  <image id="463" name="image_514.jpg" width="224" height="224">
+  </image>
+  <image id="464" name="image_515.jpg" width="224" height="224">
+  </image>
+  <image id="465" name="image_516.jpg" width="224" height="224">
+  </image>
+  <image id="466" name="image_517.jpg" width="224" height="224">
+  </image>
+  <image id="467" name="image_518.jpg" width="224" height="224">
+  </image>
+  <image id="468" name="image_519.jpg" width="224" height="224">
+  </image>
+  <image id="469" name="image_52.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="23.17" ytl="58.70" xbr="190.59" ybr="141.64" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="image_520.jpg" width="224" height="224">
+  </image>
+  <image id="471" name="image_521.jpg" width="224" height="224">
+  </image>
+  <image id="472" name="image_522.jpg" width="224" height="224">
+  </image>
+  <image id="473" name="image_523.jpg" width="224" height="224">
+  </image>
+  <image id="474" name="image_524.jpg" width="224" height="224">
+  </image>
+  <image id="475" name="image_525.jpg" width="224" height="224">
+  </image>
+  <image id="476" name="image_526.jpg" width="224" height="224">
+  </image>
+  <image id="477" name="image_527.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="13.91" ytl="96.50" xbr="195.22" ybr="181.37" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="image_528.jpg" width="224" height="224">
+  </image>
+  <image id="479" name="image_529.jpg" width="224" height="224">
+  </image>
+  <image id="480" name="image_53.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="48.24" ytl="42.49" xbr="156.64" ybr="113.47" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="image_530.jpg" width="224" height="224">
+  </image>
+  <image id="482" name="image_531.jpg" width="224" height="224">
+  </image>
+  <image id="483" name="image_532.jpg" width="224" height="224">
+  </image>
+  <image id="484" name="image_533.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="54.03" ytl="76.44" xbr="152.78" ybr="128.13" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="image_534.jpg" width="224" height="224">
+  </image>
+  <image id="486" name="image_535.jpg" width="224" height="224">
+  </image>
+  <image id="487" name="image_536.jpg" width="224" height="224">
+  </image>
+  <image id="488" name="image_537.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="14.29" ytl="61.78" xbr="110.35" ybr="116.56" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="image_538.jpg" width="224" height="224">
+  </image>
+  <image id="490" name="image_539.jpg" width="224" height="224">
+  </image>
+  <image id="491" name="image_54.jpg" width="224" height="224">
+  </image>
+  <image id="492" name="image_540.jpg" width="224" height="224">
+  </image>
+  <image id="493" name="image_541.jpg" width="224" height="224">
+  </image>
+  <image id="494" name="image_542.jpg" width="224" height="224">
+  </image>
+  <image id="495" name="image_543.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="6.19" ytl="8.93" xbr="217.98" ybr="206.44" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="image_544.jpg" width="224" height="224">
+  </image>
+  <image id="497" name="image_545.jpg" width="224" height="224">
+  </image>
+  <image id="498" name="image_546.jpg" width="224" height="224">
+  </image>
+  <image id="499" name="image_547.jpg" width="224" height="224">
+  </image>
+  <image id="500" name="image_548.jpg" width="224" height="224">
+  </image>
+  <image id="501" name="image_549.jpg" width="224" height="224">
+  </image>
+  <image id="502" name="image_55.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="51.33" ytl="90.33" xbr="167.06" ybr="115.79" z_order="0">
+    </box>
+  </image>
+  <image id="503" name="image_550.jpg" width="224" height="224">
+  </image>
+  <image id="504" name="image_551.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="6.19" ytl="8.16" xbr="204.09" ybr="197.96" z_order="0">
+    </box>
+  </image>
+  <image id="505" name="image_552.jpg" width="224" height="224">
+  </image>
+  <image id="506" name="image_553.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="3.11" ytl="18.19" xbr="215.66" ybr="206.06" z_order="0">
+    </box>
+  </image>
+  <image id="507" name="image_554.jpg" width="224" height="224">
+  </image>
+  <image id="508" name="image_555.jpg" width="224" height="224">
+  </image>
+  <image id="509" name="image_556.jpg" width="224" height="224">
+  </image>
+  <image id="510" name="image_557.jpg" width="224" height="224">
+    <box label="Hotels" source="manual" occluded="0" xtl="0.00" ytl="50.21" xbr="224.00" ybr="176.74" z_order="0">
+    </box>
+  </image>
+  <image id="511" name="image_558.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="0.41" ytl="4.69" xbr="224.00" ybr="213.39" z_order="0">
+    </box>
+  </image>
+  <image id="512" name="image_559.jpg" width="224" height="224">
+  </image>
+  <image id="513" name="image_56.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="37.83" ytl="73.36" xbr="195.22" ybr="114.63" z_order="0">
+    </box>
+  </image>
+  <image id="514" name="image_560.jpg" width="224" height="224">
+  </image>
+  <image id="515" name="image_561.jpg" width="224" height="224">
+  </image>
+  <image id="516" name="image_562.jpg" width="224" height="224">
+  </image>
+  <image id="517" name="image_563.jpg" width="224" height="224">
+  </image>
+  <image id="518" name="image_564.jpg" width="224" height="224">
+  </image>
+  <image id="519" name="image_565.jpg" width="224" height="224">
+  </image>
+  <image id="520" name="image_566.jpg" width="224" height="224">
+  </image>
+  <image id="521" name="image_567.jpg" width="224" height="224">
+  </image>
+  <image id="522" name="image_568.jpg" width="224" height="224">
+  </image>
+  <image id="523" name="image_569.jpg" width="224" height="224">
+  </image>
+  <image id="524" name="image_57.jpg" width="224" height="224">
+  </image>
+  <image id="525" name="image_570.jpg" width="224" height="224">
+  </image>
+  <image id="526" name="image_571.jpg" width="224" height="224">
+  </image>
+  <image id="527" name="image_572.jpg" width="224" height="224">
+  </image>
+  <image id="528" name="image_573.jpg" width="224" height="224">
+  </image>
+  <image id="529" name="image_574.jpg" width="224" height="224">
+  </image>
+  <image id="530" name="image_575.jpg" width="224" height="224">
+  </image>
+  <image id="531" name="image_576.jpg" width="224" height="224">
+  </image>
+  <image id="532" name="image_577.jpg" width="224" height="224">
+  </image>
+  <image id="533" name="image_578.jpg" width="224" height="224">
+  </image>
+  <image id="534" name="image_579.jpg" width="224" height="224">
+  </image>
+  <image id="535" name="image_58.jpg" width="224" height="224">
+  </image>
+  <image id="536" name="image_580.jpg" width="224" height="224">
+  </image>
+  <image id="537" name="image_581.jpg" width="224" height="224">
+  </image>
+  <image id="538" name="image_582.jpg" width="224" height="224">
+  </image>
+  <image id="539" name="image_583.jpg" width="224" height="224">
+  </image>
+  <image id="540" name="image_584.jpg" width="224" height="224">
+  </image>
+  <image id="541" name="image_585.jpg" width="224" height="224">
+  </image>
+  <image id="542" name="image_586.jpg" width="224" height="224">
+  </image>
+  <image id="543" name="image_587.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="28.57" ytl="96.12" xbr="199.46" ybr="144.72" z_order="0">
+    </box>
+  </image>
+  <image id="544" name="image_588.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="39.76" ytl="57.54" xbr="174.00" ybr="83.00" z_order="0">
+    </box>
+  </image>
+  <image id="545" name="image_589.jpg" width="224" height="224">
+  </image>
+  <image id="546" name="image_59.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="87.59" ytl="59.85" xbr="142.75" ybr="117.33" z_order="0">
+    </box>
+  </image>
+  <image id="547" name="image_590.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="91.83" ytl="57.50" xbr="202.90" ybr="88.79" z_order="0">
+    </box>
+  </image>
+  <image id="548" name="image_591.jpg" width="224" height="224">
+  </image>
+  <image id="549" name="image_592.jpg" width="224" height="224">
+  </image>
+  <image id="550" name="image_593.jpg" width="224" height="224">
+  </image>
+  <image id="551" name="image_594.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="38.98" ytl="86.47" xbr="192.13" ybr="176.35" z_order="0">
+    </box>
+  </image>
+  <image id="552" name="image_595.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="74.86" ytl="131.22" xbr="153.17" ybr="179.83" z_order="0">
+    </box>
+  </image>
+  <image id="553" name="image_596.jpg" width="224" height="224">
+  </image>
+  <image id="554" name="image_597.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="110.74" ytl="74.51" xbr="173.62" ybr="104.60" z_order="0">
+    </box>
+  </image>
+  <image id="555" name="image_598.jpg" width="224" height="224">
+  </image>
+  <image id="556" name="image_599.jpg" width="224" height="224">
+  </image>
+  <image id="557" name="image_6.jpg" width="224" height="224">
+  </image>
+  <image id="558" name="image_60.jpg" width="224" height="224">
+  </image>
+  <image id="559" name="image_600.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="62.52" ytl="52.91" xbr="179.40" ybr="139.32" z_order="0">
+    </box>
+  </image>
+  <image id="560" name="image_601.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="45.16" ytl="22.05" xbr="167.83" ybr="147.04" z_order="0">
+    </box>
+  </image>
+  <image id="561" name="image_602.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="3.11" ytl="22.05" xbr="124.24" ybr="130.83" z_order="0">
+    </box>
+  </image>
+  <image id="562" name="image_603.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="22.78" ytl="8.16" xbr="196.76" ybr="133.15" z_order="0">
+    </box>
+  </image>
+  <image id="563" name="image_604.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="52.87" ytl="67.18" xbr="171.69" ybr="147.04" z_order="0">
+    </box>
+  </image>
+  <image id="564" name="image_605.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="11.21" ytl="34.01" xbr="100.71" ybr="174.81" z_order="0">
+    </box>
+  </image>
+  <image id="565" name="image_606.jpg" width="224" height="224">
+  </image>
+  <image id="566" name="image_607.jpg" width="224" height="224">
+  </image>
+  <image id="567" name="image_608.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="30.11" ytl="56.38" xbr="162.81" ybr="116.95" z_order="0">
+    </box>
+  </image>
+  <image id="568" name="image_609.jpg" width="224" height="224">
+  </image>
+  <image id="569" name="image_61.jpg" width="224" height="224">
+  </image>
+  <image id="570" name="image_610.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="51.71" ytl="91.49" xbr="193.68" ybr="182.14" z_order="0">
+    </box>
+  </image>
+  <image id="571" name="image_611.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="21.24" ytl="8.16" xbr="221.06" ybr="108.07" z_order="0">
+    </box>
+  </image>
+  <image id="572" name="image_612.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="44.38" ytl="86.86" xbr="173.62" ybr="174.81" z_order="0">
+    </box>
+  </image>
+  <image id="573" name="image_613.jpg" width="224" height="224">
+  </image>
+  <image id="574" name="image_614.jpg" width="224" height="224">
+  </image>
+  <image id="575" name="image_615.jpg" width="224" height="224">
+  </image>
+  <image id="576" name="image_616.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="89.13" ytl="88.40" xbr="186.35" ybr="179.44" z_order="0">
+    </box>
+  </image>
+  <image id="577" name="image_617.jpg" width="224" height="224">
+  </image>
+  <image id="578" name="image_618.jpg" width="224" height="224">
+  </image>
+  <image id="579" name="image_619.jpg" width="224" height="224">
+  </image>
+  <image id="580" name="image_62.jpg" width="224" height="224">
+  </image>
+  <image id="581" name="image_620.jpg" width="224" height="224">
+  </image>
+  <image id="582" name="image_621.jpg" width="224" height="224">
+  </image>
+  <image id="583" name="image_622.jpg" width="224" height="224">
+  </image>
+  <image id="584" name="image_623.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="70.23" ytl="78.37" xbr="194.06" ybr="133.53" z_order="0">
+    </box>
+  </image>
+  <image id="585" name="image_624.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="59.81" ytl="57.54" xbr="186.73" ybr="131.61" z_order="0">
+    </box>
+  </image>
+  <image id="586" name="image_625.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="27.02" ytl="0.45" xbr="203.71" ybr="209.92" z_order="0">
+    </box>
+  </image>
+  <image id="587" name="image_626.jpg" width="224" height="224">
+  </image>
+  <image id="588" name="image_627.jpg" width="224" height="224">
+  </image>
+  <image id="589" name="image_628.jpg" width="224" height="224">
+  </image>
+  <image id="590" name="image_629.jpg" width="224" height="224">
+  </image>
+  <image id="591" name="image_63.jpg" width="224" height="224">
+  </image>
+  <image id="592" name="image_630.jpg" width="224" height="224">
+  </image>
+  <image id="593" name="image_631.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="22.40" ytl="74.51" xbr="222.61" ybr="106.92" z_order="0">
+    </box>
+  </image>
+  <image id="594" name="image_632.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="8.12" ytl="2.76" xbr="219.91" ybr="211.84" z_order="0">
+    </box>
+  </image>
+  <image id="595" name="image_633.jpg" width="224" height="224">
+  </image>
+  <image id="596" name="image_634.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="2.72" ytl="1.99" xbr="210.65" ybr="214.93" z_order="0">
+    </box>
+  </image>
+  <image id="597" name="image_635.jpg" width="224" height="224">
+  </image>
+  <image id="598" name="image_636.jpg" width="224" height="224">
+  </image>
+  <image id="599" name="image_637.jpg" width="224" height="224">
+  </image>
+  <image id="600" name="image_638.jpg" width="224" height="224">
+  </image>
+  <image id="601" name="image_639.jpg" width="224" height="224">
+  </image>
+  <image id="602" name="image_64.jpg" width="224" height="224">
+  </image>
+  <image id="603" name="image_640.jpg" width="224" height="224">
+  </image>
+  <image id="604" name="image_641.jpg" width="224" height="224">
+  </image>
+  <image id="605" name="image_642.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="48.63" ytl="39.79" xbr="168.60" ybr="168.64" z_order="0">
+    </box>
+  </image>
+  <image id="606" name="image_643.jpg" width="224" height="224">
+  </image>
+  <image id="607" name="image_644.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="87.20" ytl="72.97" xbr="191.75" ybr="146.65" z_order="0">
+    </box>
+  </image>
+  <image id="608" name="image_645.jpg" width="224" height="224">
+  </image>
+  <image id="609" name="image_646.jpg" width="224" height="224">
+  </image>
+  <image id="610" name="image_647.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="22.01" ytl="79.91" xbr="210.65" ybr="126.98" z_order="0">
+    </box>
+  </image>
+  <image id="611" name="image_648.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="90.29" ytl="1.22" xbr="169.76" ybr="130.06" z_order="0">
+    </box>
+  </image>
+  <image id="612" name="image_649.jpg" width="224" height="224">
+  </image>
+  <image id="613" name="image_65.jpg" width="224" height="224">
+  </image>
+  <image id="614" name="image_650.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="2.34" ytl="70.27" xbr="155.48" ybr="152.05" z_order="0">
+    </box>
+  </image>
+  <image id="615" name="image_651.jpg" width="224" height="224">
+    <box label="Hospital" source="manual" occluded="0" xtl="26.25" ytl="25.52" xbr="182.87" ybr="182.91" z_order="0">
+    </box>
+  </image>
+  <image id="616" name="image_652.jpg" width="224" height="224">
+  </image>
+  <image id="617" name="image_653.jpg" width="224" height="224">
+  </image>
+  <image id="618" name="image_654.jpg" width="224" height="224">
+  </image>
+  <image id="619" name="image_655.jpg" width="224" height="224">
+  </image>
+  <image id="620" name="image_656.jpg" width="224" height="224">
+  </image>
+  <image id="621" name="image_657.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="21.24" ytl="7.00" xbr="217.98" ybr="196.41" z_order="0">
+    </box>
+  </image>
+  <image id="622" name="image_658.jpg" width="224" height="224">
+  </image>
+  <image id="623" name="image_659.jpg" width="224" height="224">
+  </image>
+  <image id="624" name="image_66.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="40.91" ytl="74.90" xbr="169.37" ybr="125.43" z_order="0">
+    </box>
+  </image>
+  <image id="625" name="image_660.jpg" width="224" height="224">
+  </image>
+  <image id="626" name="image_661.jpg" width="224" height="224">
+  </image>
+  <image id="627" name="image_662.jpg" width="224" height="224">
+  </image>
+  <image id="628" name="image_663.jpg" width="224" height="224">
+  </image>
+  <image id="629" name="image_664.jpg" width="224" height="224">
+  </image>
+  <image id="630" name="image_665.jpg" width="224" height="224">
+  </image>
+  <image id="631" name="image_666.jpg" width="224" height="224">
+  </image>
+  <image id="632" name="image_667.jpg" width="224" height="224">
+  </image>
+  <image id="633" name="image_668.jpg" width="224" height="224">
+  </image>
+  <image id="634" name="image_669.jpg" width="224" height="224">
+  </image>
+  <image id="635" name="image_67.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="55.19" ytl="19.35" xbr="187.50" ybr="62.17" z_order="0">
+    </box>
+  </image>
+  <image id="636" name="image_670.jpg" width="224" height="224">
+  </image>
+  <image id="637" name="image_671.jpg" width="224" height="224">
+  </image>
+  <image id="638" name="image_672.jpg" width="224" height="224">
+  </image>
+  <image id="639" name="image_673.jpg" width="224" height="224">
+  </image>
+  <image id="640" name="image_674.jpg" width="224" height="224">
+  </image>
+  <image id="641" name="image_675.jpg" width="224" height="224">
+  </image>
+  <image id="642" name="image_676.jpg" width="224" height="224">
+  </image>
+  <image id="643" name="image_677.jpg" width="224" height="224">
+  </image>
+  <image id="644" name="image_678.jpg" width="224" height="224">
+  </image>
+  <image id="645" name="image_679.jpg" width="224" height="224">
+  </image>
+  <image id="646" name="image_68.jpg" width="224" height="224">
+  </image>
+  <image id="647" name="image_680.jpg" width="224" height="224">
+  </image>
+  <image id="648" name="image_681.jpg" width="224" height="224">
+  </image>
+  <image id="649" name="image_682.jpg" width="224" height="224">
+  </image>
+  <image id="650" name="image_683.jpg" width="224" height="224">
+  </image>
+  <image id="651" name="image_684.jpg" width="224" height="224">
+  </image>
+  <image id="652" name="image_685.jpg" width="224" height="224">
+  </image>
+  <image id="653" name="image_686.jpg" width="224" height="224">
+  </image>
+  <image id="654" name="image_687.jpg" width="224" height="224">
+  </image>
+  <image id="655" name="image_688.jpg" width="224" height="224">
+  </image>
+  <image id="656" name="image_689.jpg" width="224" height="224">
+  </image>
+  <image id="657" name="image_69.jpg" width="224" height="224">
+  </image>
+  <image id="658" name="image_690.jpg" width="224" height="224">
+  </image>
+  <image id="659" name="image_691.jpg" width="224" height="224">
+  </image>
+  <image id="660" name="image_692.jpg" width="224" height="224">
+  </image>
+  <image id="661" name="image_693.jpg" width="224" height="224">
+  </image>
+  <image id="662" name="image_694.jpg" width="224" height="224">
+  </image>
+  <image id="663" name="image_695.jpg" width="224" height="224">
+  </image>
+  <image id="664" name="image_696.jpg" width="224" height="224">
+  </image>
+  <image id="665" name="image_697.jpg" width="224" height="224">
+  </image>
+  <image id="666" name="image_698.jpg" width="224" height="224">
+  </image>
+  <image id="667" name="image_699.jpg" width="224" height="224">
+  </image>
+  <image id="668" name="image_7.jpg" width="224" height="224">
+  </image>
+  <image id="669" name="image_70.jpg" width="224" height="224">
+  </image>
+  <image id="670" name="image_700.jpg" width="224" height="224">
+  </image>
+  <image id="671" name="image_701.jpg" width="224" height="224">
+  </image>
+  <image id="672" name="image_702.jpg" width="224" height="224">
+  </image>
+  <image id="673" name="image_703.jpg" width="224" height="224">
+  </image>
+  <image id="674" name="image_704.jpg" width="224" height="224">
+  </image>
+  <image id="675" name="image_705.jpg" width="224" height="224">
+  </image>
+  <image id="676" name="image_706.jpg" width="224" height="224">
+  </image>
+  <image id="677" name="image_707.jpg" width="224" height="224">
+  </image>
+  <image id="678" name="image_708.jpg" width="224" height="224">
+  </image>
+  <image id="679" name="image_709.jpg" width="224" height="224">
+  </image>
+  <image id="680" name="image_71.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="65.99" ytl="67.95" xbr="165.13" ybr="154.75" z_order="0">
+    </box>
+  </image>
+  <image id="681" name="image_710.jpg" width="224" height="224">
+  </image>
+  <image id="682" name="image_711.jpg" width="224" height="224">
+  </image>
+  <image id="683" name="image_712.jpg" width="224" height="224">
+  </image>
+  <image id="684" name="image_713.jpg" width="224" height="224">
+  </image>
+  <image id="685" name="image_714.jpg" width="224" height="224">
+  </image>
+  <image id="686" name="image_715.jpg" width="224" height="224">
+  </image>
+  <image id="687" name="image_716.jpg" width="224" height="224">
+  </image>
+  <image id="688" name="image_717.jpg" width="224" height="224">
+  </image>
+  <image id="689" name="image_718.jpg" width="224" height="224">
+  </image>
+  <image id="690" name="image_719.jpg" width="224" height="224">
+  </image>
+  <image id="691" name="image_72.jpg" width="224" height="224">
+    <box label="Shops" source="manual" occluded="0" xtl="18.15" ytl="67.18" xbr="188.27" ybr="184.07" z_order="0">
+    </box>
+  </image>
+  <image id="692" name="image_720.jpg" width="224" height="224">
+  </image>
+  <image id="693" name="image_721.jpg" width="224" height="224">
+  </image>
+  <image id="694" name="image_722.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="18.92" ytl="102.29" xbr="206.02" ybr="167.87" z_order="0">
+    </box>
+  </image>
+  <image id="695" name="image_723.jpg" width="224" height="224">
+  </image>
+  <image id="696" name="image_724.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="45.16" ytl="44.42" xbr="178.24" ybr="150.12" z_order="0">
+    </box>
+  </image>
+  <image id="697" name="image_725.jpg" width="224" height="224">
+  </image>
+  <image id="698" name="image_726.jpg" width="224" height="224">
+  </image>
+  <image id="699" name="image_727.jpg" width="224" height="224">
+  </image>
+  <image id="700" name="image_728.jpg" width="224" height="224">
+  </image>
+  <image id="701" name="image_729.jpg" width="224" height="224">
+  </image>
+  <image id="702" name="image_73.jpg" width="224" height="224">
+  </image>
+  <image id="703" name="image_730.jpg" width="224" height="224">
+  </image>
+  <image id="704" name="image_731.jpg" width="224" height="224">
+  </image>
+  <image id="705" name="image_732.jpg" width="224" height="224">
+  </image>
+  <image id="706" name="image_733.jpg" width="224" height="224">
+  </image>
+  <image id="707" name="image_734.jpg" width="224" height="224">
+  </image>
+  <image id="708" name="image_735.jpg" width="224" height="224">
+  </image>
+  <image id="709" name="image_736.jpg" width="224" height="224">
+  </image>
+  <image id="710" name="image_737.jpg" width="224" height="224">
+  </image>
+  <image id="711" name="image_738.jpg" width="224" height="224">
+  </image>
+  <image id="712" name="image_739.jpg" width="224" height="224">
+  </image>
+  <image id="713" name="image_74.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="38.60" ytl="34.01" xbr="148.93" ybr="97.66" z_order="0">
+    </box>
+  </image>
+  <image id="714" name="image_740.jpg" width="224" height="224">
+  </image>
+  <image id="715" name="image_741.jpg" width="224" height="224">
+  </image>
+  <image id="716" name="image_742.jpg" width="224" height="224">
+  </image>
+  <image id="717" name="image_743.jpg" width="224" height="224">
+  </image>
+  <image id="718" name="image_744.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="36.67" ytl="66.80" xbr="159.73" ybr="125.43" z_order="0">
+    </box>
+  </image>
+  <image id="719" name="image_745.jpg" width="224" height="224">
+  </image>
+  <image id="720" name="image_746.jpg" width="224" height="224">
+  </image>
+  <image id="721" name="image_747.jpg" width="224" height="224">
+  </image>
+  <image id="722" name="image_748.jpg" width="224" height="224">
+  </image>
+  <image id="723" name="image_749.jpg" width="224" height="224">
+  </image>
+  <image id="724" name="image_75.jpg" width="224" height="224">
+  </image>
+  <image id="725" name="image_750.jpg" width="224" height="224">
+  </image>
+  <image id="726" name="image_751.jpg" width="224" height="224">
+  </image>
+  <image id="727" name="image_752.jpg" width="224" height="224">
+  </image>
+  <image id="728" name="image_753.jpg" width="224" height="224">
+  </image>
+  <image id="729" name="image_754.jpg" width="224" height="224">
+  </image>
+  <image id="730" name="image_755.jpg" width="224" height="224">
+  </image>
+  <image id="731" name="image_756.jpg" width="224" height="224">
+  </image>
+  <image id="732" name="image_757.jpg" width="224" height="224">
+  </image>
+  <image id="733" name="image_758.jpg" width="224" height="224">
+  </image>
+  <image id="734" name="image_759.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="16.22" ytl="17.42" xbr="211.03" ybr="194.10" z_order="0">
+    </box>
+  </image>
+  <image id="735" name="image_76.jpg" width="224" height="224">
+  </image>
+  <image id="736" name="image_760.jpg" width="224" height="224">
+  </image>
+  <image id="737" name="image_761.jpg" width="224" height="224">
+  </image>
+  <image id="738" name="image_762.jpg" width="224" height="224">
+    <box label="Theatre" source="manual" occluded="0" xtl="37.44" ytl="16.26" xbr="193.29" ybr="164.01" z_order="0">
+    </box>
+  </image>
+  <image id="739" name="image_763.jpg" width="224" height="224">
+  </image>
+  <image id="740" name="image_764.jpg" width="224" height="224">
+  </image>
+  <image id="741" name="image_765.jpg" width="224" height="224">
+  </image>
+  <image id="742" name="image_766.jpg" width="224" height="224">
+  </image>
+  <image id="743" name="image_767.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="81.42" ytl="29.76" xbr="206.02" ybr="123.89" z_order="0">
+    </box>
+  </image>
+  <image id="744" name="image_768.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="9.28" ytl="24.36" xbr="218.36" ybr="136.62" z_order="0">
+    </box>
+  </image>
+  <image id="745" name="image_769.jpg" width="224" height="224">
+  </image>
+  <image id="746" name="image_77.jpg" width="224" height="224">
+  </image>
+  <image id="747" name="image_770.jpg" width="224" height="224">
+  </image>
+  <image id="748" name="image_771.jpg" width="224" height="224">
+  </image>
+  <image id="749" name="image_772.jpg" width="224" height="224">
+  </image>
+  <image id="750" name="image_773.jpg" width="224" height="224">
+  </image>
+  <image id="751" name="image_774.jpg" width="224" height="224">
+  </image>
+  <image id="752" name="image_775.jpg" width="224" height="224">
+  </image>
+  <image id="753" name="image_776.jpg" width="224" height="224">
+  </image>
+  <image id="754" name="image_777.jpg" width="224" height="224">
+  </image>
+  <image id="755" name="image_778.jpg" width="224" height="224">
+  </image>
+  <image id="756" name="image_779.jpg" width="224" height="224">
+  </image>
+  <image id="757" name="image_78.jpg" width="224" height="224">
+  </image>
+  <image id="758" name="image_780.jpg" width="224" height="224">
+  </image>
+  <image id="759" name="image_781.jpg" width="224" height="224">
+  </image>
+  <image id="760" name="image_782.jpg" width="224" height="224">
+  </image>
+  <image id="761" name="image_783.jpg" width="224" height="224">
+  </image>
+  <image id="762" name="image_784.jpg" width="224" height="224">
+  </image>
+  <image id="763" name="image_785.jpg" width="224" height="224">
+  </image>
+  <image id="764" name="image_786.jpg" width="224" height="224">
+  </image>
+  <image id="765" name="image_787.jpg" width="224" height="224">
+  </image>
+  <image id="766" name="image_788.jpg" width="224" height="224">
+  </image>
+  <image id="767" name="image_789.jpg" width="224" height="224">
+  </image>
+  <image id="768" name="image_79.jpg" width="224" height="224">
+  </image>
+  <image id="769" name="image_790.jpg" width="224" height="224">
+  </image>
+  <image id="770" name="image_791.jpg" width="224" height="224">
+  </image>
+  <image id="771" name="image_792.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="22.01" ytl="44.42" xbr="207.95" ybr="184.07" z_order="0">
+    </box>
+  </image>
+  <image id="772" name="image_793.jpg" width="224" height="224">
+  </image>
+  <image id="773" name="image_794.jpg" width="224" height="224">
+  </image>
+  <image id="774" name="image_795.jpg" width="224" height="224">
+  </image>
+  <image id="775" name="image_796.jpg" width="224" height="224">
+  </image>
+  <image id="776" name="image_797.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="104.18" ytl="52.91" xbr="215.66" ybr="169.41" z_order="0">
+    </box>
+  </image>
+  <image id="777" name="image_798.jpg" width="224" height="224">
+  </image>
+  <image id="778" name="image_799.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="2.34" ytl="97.66" xbr="56.73" ybr="121.58" z_order="0">
+    </box>
+  </image>
+  <image id="779" name="image_8.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="73.70" ytl="56.00" xbr="163.59" ybr="114.63" z_order="0">
+    </box>
+  </image>
+  <image id="780" name="image_80.jpg" width="224" height="224">
+  </image>
+  <image id="781" name="image_800.jpg" width="224" height="224">
+    <box label="Railway_station" source="manual" occluded="0" xtl="11.64" ytl="40.48" xbr="213.27" ybr="185.47" z_order="0">
+    </box>
+  </image>
+  <image id="782" name="image_801.jpg" width="224" height="224">
+  </image>
+  <image id="783" name="image_802.jpg" width="224" height="224">
+  </image>
+  <image id="784" name="image_803.jpg" width="224" height="224">
+  </image>
+  <image id="785" name="image_804.jpg" width="224" height="224">
+  </image>
+  <image id="786" name="image_805.jpg" width="224" height="224">
+  </image>
+  <image id="787" name="image_806.jpg" width="224" height="224">
+  </image>
+  <image id="788" name="image_807.jpg" width="224" height="224">
+  </image>
+  <image id="789" name="image_808.jpg" width="224" height="224">
+  </image>
+  <image id="790" name="image_809.jpg" width="224" height="224">
+  </image>
+  <image id="791" name="image_81.jpg" width="224" height="224">
+  </image>
+  <image id="792" name="image_810.jpg" width="224" height="224">
+  </image>
+  <image id="793" name="image_811.jpg" width="224" height="224">
+  </image>
+  <image id="794" name="image_812.jpg" width="224" height="224">
+  </image>
+  <image id="795" name="image_813.jpg" width="224" height="224">
+  </image>
+  <image id="796" name="image_814.jpg" width="224" height="224">
+  </image>
+  <image id="797" name="image_815.jpg" width="224" height="224">
+  </image>
+  <image id="798" name="image_816.jpg" width="224" height="224">
+  </image>
+  <image id="799" name="image_817.jpg" width="224" height="224">
+  </image>
+  <image id="800" name="image_818.jpg" width="224" height="224">
+  </image>
+  <image id="801" name="image_819.jpg" width="224" height="224">
+  </image>
+  <image id="802" name="image_82.jpg" width="224" height="224">
+  </image>
+  <image id="803" name="image_820.jpg" width="224" height="224">
+  </image>
+  <image id="804" name="image_821.jpg" width="224" height="224">
+  </image>
+  <image id="805" name="image_822.jpg" width="224" height="224">
+  </image>
+  <image id="806" name="image_823.jpg" width="224" height="224">
+  </image>
+  <image id="807" name="image_824.jpg" width="224" height="224">
+  </image>
+  <image id="808" name="image_825.jpg" width="224" height="224">
+  </image>
+  <image id="809" name="image_826.jpg" width="224" height="224">
+  </image>
+  <image id="810" name="image_827.jpg" width="224" height="224">
+  </image>
+  <image id="811" name="image_828.jpg" width="224" height="224">
+  </image>
+  <image id="812" name="image_829.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="41.83" ytl="6.20" xbr="193.89" ybr="207.09" z_order="0">
+    </box>
+  </image>
+  <image id="813" name="image_83.jpg" width="224" height="224">
+  </image>
+  <image id="814" name="image_830.jpg" width="224" height="224">
+  </image>
+  <image id="815" name="image_831.jpg" width="224" height="224">
+  </image>
+  <image id="816" name="image_832.jpg" width="224" height="224">
+  </image>
+  <image id="817" name="image_833.jpg" width="224" height="224">
+  </image>
+  <image id="818" name="image_834.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="54.13" ytl="55.02" xbr="189.42" ybr="155.28" z_order="0">
+    </box>
+  </image>
+  <image id="819" name="image_835.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="8.28" ytl="4.33" xbr="216.25" ybr="209.32" z_order="0">
+    </box>
+  </image>
+  <image id="820" name="image_836.jpg" width="224" height="224">
+  </image>
+  <image id="821" name="image_837.jpg" width="224" height="224">
+  </image>
+  <image id="822" name="image_838.jpg" width="224" height="224">
+  </image>
+  <image id="823" name="image_839.jpg" width="224" height="224">
+  </image>
+  <image id="824" name="image_84.jpg" width="224" height="224">
+  </image>
+  <image id="825" name="image_840.jpg" width="224" height="224">
+  </image>
+  <image id="826" name="image_841.jpg" width="224" height="224">
+  </image>
+  <image id="827" name="image_842.jpg" width="224" height="224">
+  </image>
+  <image id="828" name="image_843.jpg" width="224" height="224">
+  </image>
+  <image id="829" name="image_844.jpg" width="224" height="224">
+  </image>
+  <image id="830" name="image_845.jpg" width="224" height="224">
+  </image>
+  <image id="831" name="image_846.jpg" width="224" height="224">
+  </image>
+  <image id="832" name="image_847.jpg" width="224" height="224">
+  </image>
+  <image id="833" name="image_848.jpg" width="224" height="224">
+  </image>
+  <image id="834" name="image_849.jpg" width="224" height="224">
+  </image>
+  <image id="835" name="image_85.jpg" width="224" height="224">
+  </image>
+  <image id="836" name="image_850.jpg" width="224" height="224">
+  </image>
+  <image id="837" name="image_851.jpg" width="224" height="224">
+  </image>
+  <image id="838" name="image_852.jpg" width="224" height="224">
+  </image>
+  <image id="839" name="image_853.jpg" width="224" height="224">
+  </image>
+  <image id="840" name="image_854.jpg" width="224" height="224">
+  </image>
+  <image id="841" name="image_855.jpg" width="224" height="224">
+  </image>
+  <image id="842" name="image_856.jpg" width="224" height="224">
+  </image>
+  <image id="843" name="image_857.jpg" width="224" height="224">
+  </image>
+  <image id="844" name="image_858.jpg" width="224" height="224">
+  </image>
+  <image id="845" name="image_859.jpg" width="224" height="224">
+  </image>
+  <image id="846" name="image_86.jpg" width="224" height="224">
+  </image>
+  <image id="847" name="image_860.jpg" width="224" height="224">
+  </image>
+  <image id="848" name="image_861.jpg" width="224" height="224">
+  </image>
+  <image id="849" name="image_862.jpg" width="224" height="224">
+  </image>
+  <image id="850" name="image_863.jpg" width="224" height="224">
+  </image>
+  <image id="851" name="image_864.jpg" width="224" height="224">
+  </image>
+  <image id="852" name="image_865.jpg" width="224" height="224">
+  </image>
+  <image id="853" name="image_866.jpg" width="224" height="224">
+  </image>
+  <image id="854" name="image_867.jpg" width="224" height="224">
+  </image>
+  <image id="855" name="image_868.jpg" width="224" height="224">
+  </image>
+  <image id="856" name="image_869.jpg" width="224" height="224">
+  </image>
+  <image id="857" name="image_87.jpg" width="224" height="224">
+  </image>
+  <image id="858" name="image_870.jpg" width="224" height="224">
+  </image>
+  <image id="859" name="image_871.jpg" width="224" height="224">
+  </image>
+  <image id="860" name="image_872.jpg" width="224" height="224">
+  </image>
+  <image id="861" name="image_873.jpg" width="224" height="224">
+  </image>
+  <image id="862" name="image_874.jpg" width="224" height="224">
+  </image>
+  <image id="863" name="image_875.jpg" width="224" height="224">
+  </image>
+  <image id="864" name="image_876.jpg" width="224" height="224">
+  </image>
+  <image id="865" name="image_877.jpg" width="224" height="224">
+  </image>
+  <image id="866" name="image_878.jpg" width="224" height="224">
+  </image>
+  <image id="867" name="image_879.jpg" width="224" height="224">
+  </image>
+  <image id="868" name="image_88.jpg" width="224" height="224">
+  </image>
+  <image id="869" name="image_880.jpg" width="224" height="224">
+  </image>
+  <image id="870" name="image_881.jpg" width="224" height="224">
+  </image>
+  <image id="871" name="image_882.jpg" width="224" height="224">
+  </image>
+  <image id="872" name="image_883.jpg" width="224" height="224">
+  </image>
+  <image id="873" name="image_884.jpg" width="224" height="224">
+  </image>
+  <image id="874" name="image_885.jpg" width="224" height="224">
+  </image>
+  <image id="875" name="image_886.jpg" width="224" height="224">
+  </image>
+  <image id="876" name="image_887.jpg" width="224" height="224">
+  </image>
+  <image id="877" name="image_888.jpg" width="224" height="224">
+  </image>
+  <image id="878" name="image_889.jpg" width="224" height="224">
+  </image>
+  <image id="879" name="image_89.jpg" width="224" height="224">
+  </image>
+  <image id="880" name="image_890.jpg" width="224" height="224">
+  </image>
+  <image id="881" name="image_891.jpg" width="224" height="224">
+  </image>
+  <image id="882" name="image_892.jpg" width="224" height="224">
+  </image>
+  <image id="883" name="image_893.jpg" width="224" height="224">
+  </image>
+  <image id="884" name="image_894.jpg" width="224" height="224">
+  </image>
+  <image id="885" name="image_895.jpg" width="224" height="224">
+  </image>
+  <image id="886" name="image_896.jpg" width="224" height="224">
+  </image>
+  <image id="887" name="image_897.jpg" width="224" height="224">
+  </image>
+  <image id="888" name="image_898.jpg" width="224" height="224">
+  </image>
+  <image id="889" name="image_899.jpg" width="224" height="224">
+  </image>
+  <image id="890" name="image_9.jpg" width="224" height="224">
+  </image>
+  <image id="891" name="image_90.jpg" width="224" height="224">
+  </image>
+  <image id="892" name="image_900.jpg" width="224" height="224">
+  </image>
+  <image id="893" name="image_901.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="49.65" ytl="39.74" xbr="190.91" ybr="183.98" z_order="0">
+    </box>
+  </image>
+  <image id="894" name="image_902.jpg" width="224" height="224">
+  </image>
+  <image id="895" name="image_903.jpg" width="224" height="224">
+  </image>
+  <image id="896" name="image_904.jpg" width="224" height="224">
+  </image>
+  <image id="897" name="image_905.jpg" width="224" height="224">
+  </image>
+  <image id="898" name="image_906.jpg" width="224" height="224">
+  </image>
+  <image id="899" name="image_907.jpg" width="224" height="224">
+  </image>
+  <image id="900" name="image_908.jpg" width="224" height="224">
+  </image>
+  <image id="901" name="image_909.jpg" width="224" height="224">
+  </image>
+  <image id="902" name="image_91.jpg" width="224" height="224">
+  </image>
+  <image id="903" name="image_910.jpg" width="224" height="224">
+  </image>
+  <image id="904" name="image_911.jpg" width="224" height="224">
+  </image>
+  <image id="905" name="image_912.jpg" width="224" height="224">
+  </image>
+  <image id="906" name="image_913.jpg" width="224" height="224">
+  </image>
+  <image id="907" name="image_914.jpg" width="224" height="224">
+  </image>
+  <image id="908" name="image_915.jpg" width="224" height="224">
+  </image>
+  <image id="909" name="image_916.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="12.01" ytl="44.96" xbr="165.94" ybr="176.15" z_order="0">
+    </box>
+  </image>
+  <image id="910" name="image_917.jpg" width="224" height="224">
+  </image>
+  <image id="911" name="image_918.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="49.65" ytl="100.12" xbr="140.22" ybr="150.81" z_order="0">
+    </box>
+  </image>
+  <image id="912" name="image_919.jpg" width="224" height="224">
+  </image>
+  <image id="913" name="image_92.jpg" width="224" height="224">
+  </image>
+  <image id="914" name="image_920.jpg" width="224" height="224">
+  </image>
+  <image id="915" name="image_921.jpg" width="224" height="224">
+  </image>
+  <image id="916" name="image_922.jpg" width="224" height="224">
+  </image>
+  <image id="917" name="image_923.jpg" width="224" height="224">
+  </image>
+  <image id="918" name="image_924.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="1.95" ytl="49.43" xbr="222.59" ybr="172.80" z_order="0">
+    </box>
+  </image>
+  <image id="919" name="image_925.jpg" width="224" height="224">
+  </image>
+  <image id="920" name="image_926.jpg" width="224" height="224">
+  </image>
+  <image id="921" name="image_927.jpg" width="224" height="224">
+  </image>
+  <image id="922" name="image_928.jpg" width="224" height="224">
+    <box label="Quotations" source="manual" occluded="0" xtl="41.83" ytl="84.84" xbr="157.37" ybr="208.58" z_order="0">
+    </box>
+  </image>
+  <image id="923" name="image_929.jpg" width="224" height="224">
+  </image>
+  <image id="924" name="image_93.jpg" width="224" height="224">
+  </image>
+  <image id="925" name="image_930.jpg" width="224" height="224">
+  </image>
+  <image id="926" name="image_931.jpg" width="224" height="224">
+  </image>
+  <image id="927" name="image_932.jpg" width="224" height="224">
+  </image>
+  <image id="928" name="image_933.jpg" width="224" height="224">
+  </image>
+  <image id="929" name="image_934.jpg" width="224" height="224">
+  </image>
+  <image id="930" name="image_935.jpg" width="224" height="224">
+  </image>
+  <image id="931" name="image_936.jpg" width="224" height="224">
+  </image>
+  <image id="932" name="image_937.jpg" width="224" height="224">
+  </image>
+  <image id="933" name="image_938.jpg" width="224" height="224">
+  </image>
+  <image id="934" name="image_939.jpg" width="224" height="224">
+  </image>
+  <image id="935" name="image_94.jpg" width="224" height="224">
+  </image>
+  <image id="936" name="image_940.jpg" width="224" height="224">
+  </image>
+  <image id="937" name="image_941.jpg" width="224" height="224">
+  </image>
+  <image id="938" name="image_942.jpg" width="224" height="224">
+  </image>
+  <image id="939" name="image_943.jpg" width="224" height="224">
+  </image>
+  <image id="940" name="image_944.jpg" width="224" height="224">
+  </image>
+  <image id="941" name="image_945.jpg" width="224" height="224">
+  </image>
+  <image id="942" name="image_946.jpg" width="224" height="224">
+  </image>
+  <image id="943" name="image_947.jpg" width="224" height="224">
+    <box label="Roads_signals" source="manual" occluded="0" xtl="4.93" ytl="8.80" xbr="214.02" ybr="180.25" z_order="0">
+    </box>
+  </image>
+  <image id="944" name="image_948.jpg" width="224" height="224">
+  </image>
+  <image id="945" name="image_949.jpg" width="224" height="224">
+  </image>
+  <image id="946" name="image_95.jpg" width="224" height="224">
+  </image>
+  <image id="947" name="image_950.jpg" width="224" height="224">
+  </image>
+  <image id="948" name="image_951.jpg" width="224" height="224">
+    <box label="Restaurant" source="manual" occluded="0" xtl="65.68" ytl="41.23" xbr="156.99" ybr="186.59" z_order="0">
+    </box>
+  </image>
+  <image id="949" name="image_952.jpg" width="224" height="224">
+  </image>
+  <image id="950" name="image_953.jpg" width="224" height="224">
+  </image>
+  <image id="951" name="image_954.jpg" width="224" height="224">
+  </image>
+  <image id="952" name="image_955.jpg" width="224" height="224">
+  </image>
+  <image id="953" name="image_956.jpg" width="224" height="224">
+  </image>
+  <image id="954" name="image_957.jpg" width="224" height="224">
+  </image>
+  <image id="955" name="image_958.jpg" width="224" height="224">
+  </image>
+  <image id="956" name="image_959.jpg" width="224" height="224">
+  </image>
+  <image id="957" name="image_96.jpg" width="224" height="224">
+  </image>
+  <image id="958" name="image_960.jpg" width="224" height="224">
+  </image>
+  <image id="959" name="image_961.jpg" width="224" height="224">
+  </image>
+  <image id="960" name="image_962.jpg" width="224" height="224">
+  </image>
+  <image id="961" name="image_963.jpg" width="224" height="224">
+  </image>
+  <image id="962" name="image_964.jpg" width="224" height="224">
+  </image>
+  <image id="963" name="image_965.jpg" width="224" height="224">
+  </image>
+  <image id="964" name="image_966.jpg" width="224" height="224">
+  </image>
+  <image id="965" name="image_967.jpg" width="224" height="224">
+  </image>
+  <image id="966" name="image_968.jpg" width="224" height="224">
+  </image>
+  <image id="967" name="image_969.jpg" width="224" height="224">
+  </image>
+  <image id="968" name="image_97.jpg" width="224" height="224">
+  </image>
+  <image id="969" name="image_970.jpg" width="224" height="224">
+  </image>
+  <image id="970" name="image_971.jpg" width="224" height="224">
+  </image>
+  <image id="971" name="image_972.jpg" width="224" height="224">
+  </image>
+  <image id="972" name="image_973.jpg" width="224" height="224">
+  </image>
+  <image id="973" name="image_974.jpg" width="224" height="224">
+  </image>
+  <image id="974" name="image_975.jpg" width="224" height="224">
+  </image>
+  <image id="975" name="image_976.jpg" width="224" height="224">
+  </image>
+  <image id="976" name="image_977.jpg" width="224" height="224">
+  </image>
+  <image id="977" name="image_978.jpg" width="224" height="224">
+  </image>
+  <image id="978" name="image_979.jpg" width="224" height="224">
+  </image>
+  <image id="979" name="image_98.jpg" width="224" height="224">
+  </image>
+  <image id="980" name="image_980.jpg" width="224" height="224">
+  </image>
+  <image id="981" name="image_981.jpg" width="224" height="224">
+  </image>
+  <image id="982" name="image_982.jpg" width="224" height="224">
+  </image>
+  <image id="983" name="image_983.jpg" width="224" height="224">
+  </image>
+  <image id="984" name="image_984.jpg" width="224" height="224">
+  </image>
+  <image id="985" name="image_985.jpg" width="224" height="224">
+  </image>
+  <image id="986" name="image_986.jpg" width="224" height="224">
+  </image>
+  <image id="987" name="image_987.jpg" width="224" height="224">
+  </image>
+  <image id="988" name="image_988.jpg" width="224" height="224">
+  </image>
+  <image id="989" name="image_989.jpg" width="224" height="224">
+  </image>
+  <image id="990" name="image_99.jpg" width="224" height="224">
+  </image>
+  <image id="991" name="image_990.jpg" width="224" height="224">
+  </image>
+  <image id="992" name="image_991.jpg" width="224" height="224">
+  </image>
+  <image id="993" name="image_992.jpg" width="224" height="224">
+  </image>
+  <image id="994" name="image_993.jpg" width="224" height="224">
+  </image>
+  <image id="995" name="image_994.jpg" width="224" height="224">
+  </image>
+  <image id="996" name="image_995.jpg" width="224" height="224">
+  </image>
+  <image id="997" name="image_996.jpg" width="224" height="224">
+  </image>
+  <image id="998" name="image_997.jpg" width="224" height="224">
+  </image>
+  <image id="999" name="image_998.jpg" width="224" height="224">
+  </image>
+  <image id="1000" name="image_999.jpg" width="224" height="224">
+  </image>
+</annotations>
